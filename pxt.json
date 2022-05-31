@@ -1,0 +1,22 @@
+{
+    "name": "TEMP",
+    "version": "0.0.0",
+    "description": "temp convert",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "none"
+}
